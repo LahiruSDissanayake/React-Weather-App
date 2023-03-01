@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    columns: grid;
+    justify-content: space-between;
+    color: aqua;
+    background: black;
+    height: 80px;
+    place-items: center;
+    padding: 10px;
+}
+
+.name{
+    
+    font-size: 40;
+}
+
+
+
+.button{
+    display: inline-block;
+    padding: 10px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 2px #999;
+}
+.button:hover {
+    background-color: #3e8e41
+}

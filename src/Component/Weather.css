@@ -1,0 +1,5 @@
+.image{
+    background-image: url('../Images/sky.jpg');
+    background-size: Cover;
+    background-repeat: no-repeat;
+}
